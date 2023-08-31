@@ -2,13 +2,13 @@
 
 ## install
 
-```
+```bash
 npm i @brtmvdl/logger
 ```
 
 ## how to use
 
-```
+```js
 const { Logger } = require('@brtmvdl/logger')
 
 const logger = new Logger('application')
