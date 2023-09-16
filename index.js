@@ -1,5 +1,5 @@
 
-class Logger {
+export class Logger {
   name = null
 
   constructor(name = 'Logger') {
@@ -11,5 +11,3 @@ class Logger {
     return this
   }
 }
-
-module.exports = { Logger, }
