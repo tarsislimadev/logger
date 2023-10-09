@@ -27,6 +27,8 @@ logger.log('key', 'value1', 'value2', 'value3')
 ```
 
 ```sh
+# bash
+
 node index.js
 ```
 
