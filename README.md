@@ -10,18 +10,24 @@ Easy Logger Node.js library
 
 ## install
 
-```bash
+```sh
 npm i @brtmvdl/logger
 ```
 
 ## how to use
 
 ```js
+// index.js
+
 const { Logger } = require('@brtmvdl/logger')
 
 const logger = new Logger('application')
 
 logger.log('key', 'value1', 'value2', 'value3')
+```
+
+```sh
+node index.js
 ```
 
 ## License
