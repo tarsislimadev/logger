@@ -10,7 +10,9 @@ Easy Logger Node.js library
 
 ## install
 
-```sh
+```bash
+# bash
+
 npm i @brtmvdl/logger
 ```
 
