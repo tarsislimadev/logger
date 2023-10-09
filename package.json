@@ -1,8 +1,9 @@
 {
   "name": "@brtmvdl/logger",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "main": "index.js",
   "license": "MIT",
+  "funding": "https://link.mercadopago.com.br/brtmvdl",
   "repository": {
     "type" : "git",
     "url" : "git@github.com:brtmvdl/logger.git"
