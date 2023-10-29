@@ -1,4 +1,4 @@
-# @brtmvdl/logger
+# [@brtmvdl/logger](https://www.npmjs.com/package/@brtmvdl/logger)
 
 Easy Logger Node.js library
 
@@ -8,7 +8,7 @@ Easy Logger Node.js library
 
 [Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/CPRyzsjj)
 
-## install
+## how to install
 
 ```bash
 # bash
