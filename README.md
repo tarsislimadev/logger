@@ -34,6 +34,6 @@ logger.log('key', 'value1', 'value2', 'value3')
 node index.js
 ```
 
-## License
+## license
 
 [MIT](./LICENSE)
