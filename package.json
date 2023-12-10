@@ -2,6 +2,7 @@
   "name": "@brtmvdl/logger",
   "version": "0.2.3",
   "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "funding": "https://link.mercadopago.com.br/brtmvdl",
   "repository": {
